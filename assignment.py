@@ -100,8 +100,11 @@ plt.savefig('Pie chart.png') #Saving the image of the line graph
 
 plt.show()
 
-
-
+a = 5
+b = 6
+x = a + b
+print(x)
+#this is just for a trial
 
 
 
